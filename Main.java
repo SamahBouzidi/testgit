@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello!");
         Pangolin p = new Pangolin("toto", 5);
         System.out.println(p.toString());
+         System.out.println(p.crier());
 
     }
 }
