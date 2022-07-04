@@ -3,7 +3,9 @@ public class Main {
     {
         System.out.println("Hello!");
         Pangolin p = new Pangolin("toto", 5);
+        Pangolin p1 = new Pangolin("tata", 5);
         System.out.println(p.toString());
+        System.out.println(p1.crier());
 
     }
 }
