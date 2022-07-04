@@ -41,6 +41,6 @@ public class Pangolin {
 
 
 	public void crier() {
-        System.out.println("Gwwark Rhââgn Bwwikk"); // Cri du pangolin
+        System.out.println("Gwwark Rhââgn Bwwikkkkkk"); // Cri du pangolin
     }
 }
