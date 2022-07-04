@@ -7,6 +7,7 @@ public class Main {
         System.out.println(p.toString());
         System.out.println(p1.crier());
         System.out.println(p.crier());
+        System.out.println(p1.toString());
 
 
     }
